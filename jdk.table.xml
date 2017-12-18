@@ -1,0 +1,163 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/projects/lexsursat-backend/.env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/projects/lexsursat-backend/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/projects/cloud_toolbox/cloud_toolbox" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1144440624" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/projects/lexsursat-backend/.env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/projects/lexsursat-backend/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/projects/cloud_toolbox/cloud_toolbox" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/1144440624" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/projects/lexsursat-backend/.env (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/projects/lexsursat-backend/.env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/lexsursat-backend/.env/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/projects/cloud_toolbox/cloud_toolbox" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1144440624" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/projects/sentinel-passage-harvester/.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/projects/sentinel-passage-harvester/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/projects/sentinel-passage-harvester/.venv/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/projects/sentinel-passage-harvester/.venv/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/sentinel-passage-harvester/.venv/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/sentinel-passage-harvester/.venv/lib/python3.5/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/projects/sentinel-passage-harvester/.venv/lib/python3.5/site-packages/setuptools-28.8.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1176588066" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/projects/kml_to_exp/.venv/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/projects/kml_to_exp/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/projects/kml_to_exp/.venv/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/projects/kml_to_exp/.venv/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/kml_to_exp/.venv/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python3.5" />
+            <root type="simple" url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file://$USER_HOME$/projects/kml_to_exp/.venv/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1592975006" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
