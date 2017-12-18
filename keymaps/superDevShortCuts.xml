@@ -1,4 +1,7 @@
 <keymap version="1" name="superDevShortCuts" parent="Default for XWin">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
@@ -9,6 +12,13 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="CodeInspection.OnEditor" />
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+  </action>
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -25,6 +35,8 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewElementSamePlace" />
+  <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
@@ -32,6 +44,9 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RunInspection" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="ShowContent" />
   <action id="ShowIntentionActions" />
   <action id="ShowReformatFileDialog">
