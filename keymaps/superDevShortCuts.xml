@@ -12,6 +12,16 @@
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="CodeInspection.OnEditor" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl colon" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+  </action>
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -52,6 +62,7 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
+  <action id="SwitchCoverage" />
   <action id="Uml.NodeIntentions" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
