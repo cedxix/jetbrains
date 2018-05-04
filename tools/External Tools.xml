@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="C:/bva-projects/pcx/services/service-verbatim/src/" />
     </exec>
   </tool>
+  <tool name="docker postgres" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker" />
+      <option name="PARAMETERS" value="run --name postgres-test -e POSTGRES_PASSWORD=testing -d postgres --link postgres-test:psql" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>
