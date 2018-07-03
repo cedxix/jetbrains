@@ -10,6 +10,9 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl colon" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
