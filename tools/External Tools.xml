@@ -6,7 +6,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/src/" />
     </exec>
   </tool>
-  <tool name="coverage:report" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="coverage:report" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\bva-projects\pcx\services\service-verbatim\venv\Scripts\coverage.exe" />
       <option name="PARAMETERS" value="report -m" />
