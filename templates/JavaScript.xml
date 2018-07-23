@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="fnc" value="() =&gt; {&#10;$END$&#10;}" description="Arrow function" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
