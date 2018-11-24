@@ -13,6 +13,9 @@
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt e" />
