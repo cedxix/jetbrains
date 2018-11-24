@@ -34,6 +34,7 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ShowContent" />
+  <action id="XDebugger.AttachToProcess" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="context.load" />
