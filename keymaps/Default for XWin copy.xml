@@ -13,8 +13,8 @@
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
-  <action id="ExpandRegionRecursively">
-    <keyboard-shortcut first-keystroke="ctrl alt add" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="IncrementWindowHeight" />
   <action id="Javascript.Linters.EsLint.Fix">
@@ -32,17 +32,14 @@
     <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="NextEditorTab" />
-  <action id="QuickEvaluateExpression">
-    <mouse-shortcut keystroke="shift control alt button1" />
-  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ShowContent" />
-  <action id="ShowUsages" />
-  <action id="SwitchCoverage" />
-  <action id="XDebugger.AttachToProcess" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
   <action id="context.load" />
