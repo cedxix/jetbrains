@@ -1,13 +1,13 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.6 (tools-scripts) interpreter library">
+    <library name="Python 3.6 (api-arena) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/tools-scripts/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/bva-projects/pcx/tools-scripts/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/tools-scripts/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/647714536" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/api-arena/.venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/bva-projects/pcx/api-arena/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/api-arena/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-643667484" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -19,10 +19,10 @@
       <SOURCES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/tools-scripts/venv/lib/python3.6/site-packages" />
-        <root url="jar://$USER_HOME$/bva-projects/pcx/tools-scripts/venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/tools-scripts/venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/647714536" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/api-arena/.venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/bva-projects/pcx/api-arena/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/api-arena/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.2/system/python_stubs/-643667484" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
