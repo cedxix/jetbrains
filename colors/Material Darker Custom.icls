@@ -4,13 +4,14 @@
     <property name="created">2018-09-03T10:20:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-02-05T10:32:38</property>
+    <property name="modified">2019-02-12T12:15:50</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -1417,11 +1418,6 @@
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-      </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
