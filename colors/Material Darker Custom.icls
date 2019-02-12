@@ -4,7 +4,7 @@
     <property name="created">2018-09-03T10:20:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2019-02-12T12:15:50</property>
+    <property name="modified">2019-02-12T14:34:38</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1387,9 +1387,20 @@
         <option name="FOREGROUND" value="ffe04b" />
       </value>
     </option>
+    <option name="JSON.BRACES">
+      <value>
+        <option name="FOREGROUND" value="d61576" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ea341d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="97e4fa" />
+        <option name="FOREGROUND" value="fad03a" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
