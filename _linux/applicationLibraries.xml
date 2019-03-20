@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="api-arena interpreter library">
+    <library name="Python 3.6 (api-arena) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
