@@ -1,4 +1,4 @@
-<code_scheme name="wenming">
+<code_scheme name="wenming" version="173">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
@@ -545,4 +545,7 @@
     </option>
   </attributes>
   <colors />
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="100" />
+  </codeStyleSettings>
 </code_scheme>
