@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -16,7 +15,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-1116f062:1659e7a87b0:-7fff" />
-    <option name="version" value="3.9.1" />
+    <option name="version" value="4.5.1" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
