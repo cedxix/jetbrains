@@ -25,6 +25,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl colon" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
@@ -48,7 +49,11 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
   <action id="NewElementSamePlace" />
+  <action id="NextEditorTab" />
   <action id="ParameterInfo" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt i" />
