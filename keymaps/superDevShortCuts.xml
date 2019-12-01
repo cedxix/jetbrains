@@ -75,8 +75,15 @@
   </action>
   <action id="SwitchCoverage" />
   <action id="Uml.NodeIntentions" />
+  <action id="UpdateRunningApplication" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.SetValue" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="context.load" />
 </keymap>

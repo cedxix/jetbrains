@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping pattern=".editorconfig" approved="true" type="EditorConfig" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern=".Procfile" type="PLAIN_TEXT" />
