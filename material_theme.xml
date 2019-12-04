@@ -8,14 +8,13 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="tabOpacity" value="79" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-1116f062:1659e7a87b0:-7fff" />
-    <option name="version" value="4.9.2.1" />
+    <option name="version" value="4.10.0" />
     <option name="tabHighlightPosition" value="Bottom" />
   </component>
 </application>
