@@ -441,6 +441,33 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.4/gems/globalid-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="GlobalVenv interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-577665797" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/lib-dynload" />
+        <root url="file:///usr/lib/python3.7" />
+        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-577665797" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="i18n (v1.6.0, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -757,33 +784,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/handlers" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/visitors" />
       </excluded>
-    </library>
-    <library name="Python 3.7 (venv) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/lib/python3.7" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-577665797" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/lib-dynload" />
-        <root url="file:///usr/lib/python3.7" />
-        <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-577665797" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
     </library>
     <library name="rack (v2.0.7, RVM: ruby-2.6.4) [gem]" type="rubylib">
       <properties>
