@@ -758,11 +758,6 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.6.4/lib/ruby/2.6.0/psych/visitors" />
       </excluded>
     </library>
-    <library name="Python 3.6 (venv) interpreter library">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="Python 3.7 (venv) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/bva-projects/pcx/venv/lib/python3.7" />
