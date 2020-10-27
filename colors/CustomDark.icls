@@ -1,12 +1,15 @@
-<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+<scheme name="CustomDark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-10-27T11:45:23</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.0.0</property>
+    <property name="created">2018-07-16T10:51:01</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.1.5.0.0</property>
     <property name="modified">2020-10-27T13:56:48</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="3a3a2c" />
@@ -31,6 +34,9 @@
       <value>
         <option name="BACKGROUND" value="452828" />
       </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
     </option>
   </attributes>
 </scheme>

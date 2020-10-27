@@ -4,12 +4,13 @@
     <property name="created">2020-10-27T11:49:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-10-27T12:39:59</property>
+    <property name="modified">2020-10-27T13:56:48</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_FONT_NAME" value="BitstreamVeraSansMono Nerd Font Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />

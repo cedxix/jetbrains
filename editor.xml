@@ -1,7 +1,8 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Inconsolata" />
+    <option name="FONT_FAMILY" value="BitstreamVeraSansMono Nerd Font Mono" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
