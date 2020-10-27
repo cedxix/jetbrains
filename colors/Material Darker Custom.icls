@@ -4,7 +4,7 @@
     <property name="created">2018-09-03T10:20:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.2.0.0</property>
-    <property name="modified">2020-10-27T14:46:25</property>
+    <property name="modified">2020-10-27T15:01:08</property>
     <property name="originalScheme">_@user_Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1452,7 +1452,15 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
