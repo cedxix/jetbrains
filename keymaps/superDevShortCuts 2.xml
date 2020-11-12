@@ -101,4 +101,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="context.load" />
+  <action id="org.igu.plugins.consolelog.CommentAllLogMessagesAction" />
+  <action id="org.igu.plugins.consolelog.DeleteAllLogMessagesAction" />
+  <action id="org.igu.plugins.consolelog.DisplayLogMessageAction" />
+  <action id="org.igu.plugins.consolelog.UnCommentAllLogMessagesAction" />
 </keymap>
