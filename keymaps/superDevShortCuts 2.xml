@@ -29,6 +29,7 @@
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl alt insert" />
