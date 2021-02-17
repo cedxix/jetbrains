@@ -13,6 +13,7 @@
       <map>
         <entry key="JSONSchemaSelector" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
     </option>
