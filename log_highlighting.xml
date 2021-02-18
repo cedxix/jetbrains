@@ -1,5 +1,8 @@
 <application>
   <component name="LogHighlightingSettings">
+    <parsingPatterns>
+      <LogParsingPattern name="Logger" pattern="/^([\d{2}:]+.\d{3,})\s+(.+)(Info|Debug|Warning|ERROR):{1}(.+)Data:(.+)/gi" timePattern="HH:mm:ss.SSS" linePattern="(Info|Debug|Warning|ERROR):" severityId="2" categoryId="3" />
+    </parsingPatterns>
     <settingsVersion>4</settingsVersion>
     <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
   </component>
