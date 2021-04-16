@@ -1403,8 +1403,8 @@
         <option name="FOREGROUND" value="d08770" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.PARENTHS">
       <value>
         <option name="FOREGROUND" value="ebcb8b" />
