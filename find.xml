@@ -17,5 +17,6 @@
     <mask>*component.ts</mask>
     <mask>*spec.ts</mask>
     <mask>*.json</mask>
+    <mask>meeting.ts</mask>
   </component>
 </application>
