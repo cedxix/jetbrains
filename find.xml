@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="@in-meet" />
+    <option name="defaultScopeName" value="@in-meet" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="SEARCH_SCOPE" value="@in-meet" />
+    <option name="FILE_MASK" value="*spec.ts" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +16,9 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*component.ts</mask>
-    <mask>*spec.ts</mask>
     <mask>*.json</mask>
     <mask>meeting.ts</mask>
     <mask>*.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
