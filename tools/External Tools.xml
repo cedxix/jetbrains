@@ -6,18 +6,25 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/src/" />
     </exec>
   </tool>
-  <tool name="coverage:report" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="coverage:report" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\bva-projects\pcx\services\service-verbatim\venv\Scripts\coverage.exe" />
       <option name="PARAMETERS" value="report -m" />
       <option name="WORKING_DIRECTORY" value="C:/bva-projects/pcx/services/service-verbatim/src/" />
     </exec>
   </tool>
-  <tool name="docker postgres" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="docker postgres" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="docker" />
       <option name="PARAMETERS" value="run --name postgres-test -e POSTGRES_PASSWORD=testing -d postgres --link postgres-test:psql" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="update driver" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="\\wsl$\Ubuntu\home\cedric\projects\mitel\cloudlink-components-meet\node_modules\.bin\webdriver-manager" />
+      <option name="PARAMETERS" value="update" />
+      <option name="WORKING_DIRECTORY" value="//wsl$/Ubuntu/home/cedric/projects/mitel/cloudlink-components-meet" />
     </exec>
   </tool>
 </toolSet>

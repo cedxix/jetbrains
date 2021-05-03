@@ -1,12 +1,12 @@
 <toolSet name="Linters">
-  <tool name="Pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Pylint" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$\venv\Scripts\pylint" />
       <option name="PARAMETERS" value="-f msvs api" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/src" />
     </exec>
   </tool>
-  <tool name="Pep8" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="Pep8" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$ProjectFileDir$\venv\Scripts\pep8 " />
       <option name="PARAMETERS" value="--format=pylint api" />
