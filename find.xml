@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="@meet-web" />
-    <option name="defaultScopeName" value="@meet-web" />
-    <option name="SEARCH_SCOPE" value="@meet-web" />
+    <option name="customScope" value="@mitel-internal/ccm" />
+    <option name="defaultScopeName" value="@mitel-internal/ccm" />
+    <option name="SEARCH_SCOPE" value="@mitel-internal/ccm" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
