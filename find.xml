@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="@ccm" />
-    <option name="defaultScopeName" value="@ccm" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="@ccm" />
+    <option name="customScope" value="@one" />
+    <option name="defaultScopeName" value="@one" />
+    <option name="SEARCH_SCOPE" value="@one" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
