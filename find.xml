@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="@meet-web" />
-    <option name="defaultScopeName" value="@meet-web" />
-    <option name="SEARCH_SCOPE" value="@meet-web" />
+    <option name="customScope" value="@all" />
+    <option name="defaultScopeName" value="@all" />
+    <option name="SEARCH_SCOPE" value="@all" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
