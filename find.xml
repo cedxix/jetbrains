@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="@all" />
-    <option name="defaultScopeName" value="@all" />
-    <option name="SEARCH_SCOPE" value="@all" />
+    <option name="customScope" value="@ccm" />
+    <option name="defaultScopeName" value="@ccm" />
+    <option name="SEARCH_SCOPE" value="@ccm" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,8 +15,8 @@
     <mask>meeting.ts</mask>
     <mask>*mock.ts</mask>
     <mask>*spec.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
