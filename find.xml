@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="@all" />
-    <option name="defaultScopeName" value="@all" />
-    <option name="SEARCH_SCOPE" value="@all" />
+    <option name="customScope" value="@web-uc-smb" />
+    <option name="defaultScopeName" value="@web-uc-smb" />
+    <option name="SEARCH_SCOPE" value="@web-uc-smb" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
