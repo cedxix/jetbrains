@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="@web-uc-smb" />
     <option name="defaultScopeName" value="@web-uc-smb" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="@web-uc-smb" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
