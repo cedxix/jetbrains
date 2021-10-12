@@ -3,7 +3,6 @@
     <option name="customScope" value="@all" />
     <option name="defaultScopeName" value="@all" />
     <option name="SEARCH_SCOPE" value="@all" />
-    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
