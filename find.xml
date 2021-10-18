@@ -3,7 +3,6 @@
     <option name="customScope" value="@in-meet" />
     <option name="defaultScopeName" value="@in-meet" />
     <option name="SEARCH_SCOPE" value="@in-meet" />
-    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
