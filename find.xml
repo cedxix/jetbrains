@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="@in-meet" />
     <option name="defaultScopeName" value="@in-meet" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="@in-meet" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
