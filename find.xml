@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="@in-meet" />
     <option name="defaultScopeName" value="@in-meet" />
-    <option name="localWholeWordsOnly" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="@in-meet" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
