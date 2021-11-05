@@ -3,6 +3,7 @@
     <option name="customScope" value="@in-meet" />
     <option name="defaultScopeName" value="@in-meet" />
     <option name="SEARCH_SCOPE" value="@in-meet" />
+    <option name="FILE_MASK" value="*.spec.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -13,7 +14,6 @@
     <mask>*mock.ts</mask>
     <mask>*spec.ts</mask>
     <mask>*.json</mask>
-    <mask>*.spec.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -26,5 +26,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.spec.ts</mask>
   </component>
 </application>
