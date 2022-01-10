@@ -1,6 +1,9 @@
 <application>
   <component name="GeneralSettings">
     <option name="browserPath" value="\\wsl$\Ubuntu\usr\bin\google-chrome" />
+    <option name="defaultProjectDirectory" value="\\wsl$\Ubuntu\home\cedric\projects" />
+    <option name="inactiveTimeout" value="60" />
+    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
