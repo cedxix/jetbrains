@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -15,7 +16,6 @@
     <mask>*component.ts</mask>
     <mask>meeting.ts</mask>
     <mask>*mock.ts</mask>
-    <mask>*spec.ts</mask>
     <mask>*.spec.ts</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
@@ -30,5 +30,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
