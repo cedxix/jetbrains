@@ -45,6 +45,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl alt insert" />
   </action>
@@ -76,6 +79,9 @@
   <action id="NewElementSamePlace" />
   <action id="NextEditorTab" />
   <action id="ParameterInfo" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift l" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt i" />
   </action>
@@ -101,6 +107,7 @@
   </action>
   <action id="SmartSelect" />
   <action id="SwitchCoverage" />
+  <action id="Terminal.ClearBuffer" />
   <action id="Terminal.NextSplitter">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
@@ -125,6 +132,7 @@
   <action id="Uml.NodeIntentions" />
   <action id="UpdateRunningApplication" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
