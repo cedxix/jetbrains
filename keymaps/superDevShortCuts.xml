@@ -54,6 +54,9 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
   </action>
