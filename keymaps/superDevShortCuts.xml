@@ -2,6 +2,10 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ActivityTracker-Popup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
@@ -36,7 +40,13 @@
   <action id="Git.Reword.Commit">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+  </action>
+  <action id="HideAllWindows" />
+  <action id="MaximizeEditorInSplit">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
@@ -70,12 +80,15 @@
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt i" />
   </action>
+  <action id="SmartSelect" />
   <action id="SwitchCoverage" />
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
   <action id="Uml.NodeIntentions" />
   <action id="UpdateRunningApplication" />
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.SetValue" />
