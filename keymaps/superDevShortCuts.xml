@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ActivityTracker-Popup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
@@ -14,6 +18,13 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="shift x" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -82,6 +93,21 @@
   </action>
   <action id="SmartSelect" />
   <action id="SwitchCoverage" />
+  <action id="Terminal.NextSplitter">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="Terminal.PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl meta comma" />
+  </action>
+  <action id="TerminalSplitActionBase$Horizontal">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
@@ -99,4 +125,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="context.load" />
+  <action id="tasks.switch" />
 </keymap>
